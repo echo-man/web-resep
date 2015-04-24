@@ -1,0 +1,5 @@
+# Site settings
+name: Christmas Recipes
+markdown: redcarpet
+pygments: true
+baseurl: /web-resep
