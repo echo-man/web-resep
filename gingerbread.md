@@ -5,7 +5,7 @@ recipe-attribution: Hungry Herry
 recipe-attribution-link: http://www.gemabuluk.wordpress.com 
 ---
 
-Makes about 15 small cookies.
+Makes about 15 0000 small cookies.
 
 
 ## Ingredients
